@@ -1,7 +1,8 @@
+import { Box, Typography } from '@mui/material';
+
+import Navbar from './Navbar'
 import React from 'react'
 import TextField from '@mui/material/TextField';
-import { Box, Typography } from '@mui/material';
-import Navbar from './Navbar'
 
 function Header() {
     return (
@@ -58,4 +59,3 @@ function Header() {
 }
 
 export default Header;
-
