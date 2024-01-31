@@ -2,7 +2,7 @@ export const almuerzos =  [
     {
         name: "Nombre",
         price: "00.00 $",
-        img: './public/almuerzo1.svg'
+        img: '/almuerzo1.svg'
     },
     {
         name: "Nombre",
