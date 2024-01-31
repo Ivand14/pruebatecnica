@@ -1,6 +1,7 @@
-import React from 'react';
 import { Box, Typography } from '@mui/material';
+
 import { Height } from '@mui/icons-material';
+import React from 'react';
 
 function Events() {
     return (
@@ -37,7 +38,7 @@ function Events() {
 const cardStyle = {
     width: '210px',
     borderRadius: '10px',
-    backgroundImage: 'linear-gradient(to bottom, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../src/assets/recital.jpg")',
+    backgroundImage: 'linear-gradient(to bottom, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("/recital.jpg")',
     backgroundSize: 'cover',
     backgroundPosition: 'center',
     display: 'flex',
@@ -53,7 +54,7 @@ const cardStyle = {
     fontSize: '25px',
     lineHeight: '36.13px',
     '&:nth-of-type(2n)': {
-        backgroundImage: 'linear-gradient(to bottom, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../src/assets/wine.jpg")',
+        backgroundImage: 'linear-gradient(to bottom, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("/wine.jpg")',
     },
     height:'310px'
 };
