@@ -11,21 +11,21 @@ function Events() {
             <Box sx={{ display: 'flex', flexDirection: 'row', flexWrap: 'wrap', justifyContent: 'center', maxWidth: '1200px', gap: '20px' }}>
                 {/* Tarjeta 1 */}
                 <Box sx={cardStyle}>
-                    <Typography sx={textStyle}>Concierto</Typography>
+                    <Typography sx={{textStyle,mb:10,mt:10}}>Concierto</Typography>
                     <Typography sx={textStyle}>Fecha</Typography>
                     <Typography sx={textStyle}>Hora</Typography>
                 </Box>
 
                 {/* Tarjeta 2 */}
                 <Box sx={cardStyle}>
-                    <Typography sx={textStyle}>Concierto</Typography>
+                    <Typography sx={{textStyle,mb:10,mt:10}}>Concierto</Typography>
                     <Typography sx={textStyle}>Fecha</Typography>
                     <Typography sx={textStyle}>Hora</Typography>
                 </Box>
 
                 {/* Tarjeta 3 */}
                 <Box sx={cardStyle}>
-                    <Typography sx={textStyle}>Concierto</Typography>
+                    <Typography sx={{textStyle,mb:10,mt:10}}>Concierto</Typography>
                     <Typography sx={textStyle}>Fecha</Typography>
                     <Typography sx={textStyle}>Hora</Typography>
                 </Box>
