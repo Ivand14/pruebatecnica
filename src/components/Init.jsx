@@ -13,7 +13,7 @@ function Init() {
                 position: 'relative',
                 width: '100%',
                 minHeight: '376px', // Cambiado a minHeight para permitir crecimiento
-                backgroundImage: 'url("../src/assets/fondoPrueba.jpg")',
+                backgroundImage: 'url("../public/fondoPrueba.jpg")',
                 backgroundSize: 'cover',
                 backgroundPosition: 'center',
                 justifyContent: 'center',
