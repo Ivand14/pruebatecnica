@@ -7,27 +7,27 @@ export const almuerzos =  [
     {
         name: "Nombre",
         price: "00.00 $",
-        img: '../public/almuerzo2.svg'
+        img: 'almuerzo2.svg'
     },
     {
         name: "Nombre",
         price: "00.00 $",
-        img: '../public/almuerzo3.svg'
+        img: 'almuerzo3.svg'
     },
     {
         name: "Nombre",
         price: "00.00 $",
-        img: '../public/almuerzo1.svg'
+        img: 'almuerzo1.svg'
     },
     {
         name: "Nombre",
         price: "00.00 $",
-        img: '../public/almuerzo2.svg'
+        img: 'almuerzo2.svg'
     },
     {
         name: "Nombre",
         price: "00.00 $",
-        img: '../public/almuerzo3.svg'
+        img: 'almuerzo3.svg'
     }
 ]
 
@@ -35,32 +35,32 @@ export const desayunosYcenas =  [
     {
         name: "Nombre",
         price: "00.00 $",
-        img: "../public/desayuno1.svg"
+        img: "desayuno1.svg"
     },
     {
         name: "Nombre",
         price: "00.00 $",
-        img: "../public/desayuno2.svg"
+        img: "desayuno2.svg"
     },
     {
         name: "Nombre",
         price: "00.00 $",
-        img: "../public/desayuno3.svg"
+        img: "desayuno3.svg"
     },
     {
         name: "Nombre",
         price: "00.00 $",
-        img: "../public/desayuno1.svg"
+        img: "desayuno1.svg"
     },
     {
         name: "Nombre",
         price: "00.00 $",
-        img: "../public/desayuno2.svg"
+        img: "desayuno2.svg"
     },
     {
         name: "Nombre",
         price: "00.00 $",
-        img: "../public/desayuno3.svg"
+        img: "desayuno3.svg"
     }
 ]
 
@@ -68,32 +68,32 @@ export const Postres =  [
     {
         name: "Nombre",
         price: "00.00 $",
-        img: "../public/postres1.svg"
+        img: "postres1.svg"
     },
     {
         name: "Nombre",
         price: "00.00 $",
-        img: "../public/postres3.svg"
+        img: "postres3.svg"
     },
     {
         name: "Nombre",
         price: "00.00 $",
-        img: "../public/postres2.svg"
+        img: "postres2.svg"
     },
     {
         name: "Nombre",
         price: "00.00 $",
-        img: "../public/postres1.svg"
+        img: "postres1.svg"
     },
     {
         name: "Nombre",
         price: "00.00 $",
-        img: "../public/postres3.svg"
+        img: "postres3.svg"
     },
     {
         name: "Nombre",
         price: "00.00 $",
-        img: "../public/postres2.svg"
+        img: "postres2.svg"
     }
 ]
 
@@ -101,43 +101,43 @@ export const Bebidas =  [
     {
         name: "Nombre",
         price: "00.00 $",
-        img: "../public/bebidas1.svg"
+        img: "bebidas1.svg"
     },
     {
         name: "Nombre",
         price: "00.00 $",
-        img: "../public/bebidas2.svg"
+        img: "bebidas2.svg"
     },
     {
         name: "Nombre",
         price: "00.00 $",
-        img: "../public/bebidas3.svg"
+        img: "bebidas3.svg"
     },
     {
         name: "Nombre",
         price: "00.00 $",
-        img: "../public/bebidas1.svg"
+        img: "bebidas1.svg"
     },
     {
         name: "Nombre",
         price: "00.00 $",
-        img: "../public/bebidas2.svg"
+        img: "bebidas2.svg"
     },
     {
         name: "Nombre",
         price: "00.00 $",
-        img: "../public/bebidas3.svg"
+        img: "bebidas3.svg"
     }
 ]
 
 export const Banners = [
     {
-        img:'../public/Habitacion.svg',
+        img:'Habitacion.svg',
         nameRoom:'Nombre de la habitación',
         description:'Lorem ipsum dolor sit amet consectetur. Eu felis risus quis nisi lectus. Enim ipsum nisi gravida massa odio. Volutpat fermentum.',
     },
     {
-        img:'../public/Habitacion.svg',
+        img:'Habitacion.svg',
         nameRoom:'Nombre de la habitación',
         description:'Lorem ipsum dolor sit amet consectetur. Eu felis risus quis nisi lectus. Enim ipsum nisi gravida massa odio. Volutpat fermentum.',
     }
@@ -146,35 +146,35 @@ export const Banners = [
 
 export const services = [
     {
-        img:'../public/Piscina.svg',
+        img:'Piscina.svg',
         name:'Piscina'
     },
     {
-        img:'../public/spa.svg',
+        img:'spa.svg',
         name:'Spa'
     },
     {
-        img:'../public/sauna.svg',
+        img:'sauna.svg',
         name:'Sauna'
     },
     {
-        img:'../public/discoteca.svg',
+        img:'discoteca.svg',
         name:'Discoteca'
     },
     {
-        img:'../public/desayuno.svg',
+        img:'desayuno.svg',
         name:'Desayunos'
     },
     {
-        img:'../public/gimnasio.svg',
+        img:'gimnasio.svg',
         name:'Gimnasio'
     },
     {
-        img:'../public/animaciones.svg',
+        img:'animaciones.svg',
         name:'Animaciones'
     },
     {
-        img:'../public/transporte.svg',
+        img:'transporte.svg',
         name:'Transporte'
     }
 ]
