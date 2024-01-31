@@ -1,18 +1,16 @@
-import { Box, Typography } from '@mui/material';
-
-import Header from './components/header';
-import Recomendations from './components/Recomendations';
 import Banner from './components/Banner';
+import { Box } from '@mui/material';
 import Events from './components/Events';
-import Services from './components/Services';
 import Footer from './components/Footer';
-
+import Init from './components/Init';
+import Recomendations from './components/Recomendations';
+import Services from './components/Services';
 
 function App() {
 
   return (
     <Box sx={{ overflow: 'hidden' }}>
-      <Header />
+      <Init />
       <Recomendations />
       <Banner />
       <Events />

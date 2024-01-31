@@ -4,7 +4,7 @@ import Navbar from './Navbar'
 import React from 'react'
 import TextField from '@mui/material/TextField';
 
-function Header() {
+function Init() {
     return (
         <Box
             sx={{
@@ -58,4 +58,4 @@ function Header() {
     )
 }
 
-export default Header;
+export default Init;
